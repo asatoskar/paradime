@@ -23,3 +23,7 @@ http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
 //uses SIFT algorithm im Python
 http://hubpages.com/technology/Benchmarking-Python-Cython-and-CythonMPI
 //Cython with MPI bindings
+http://stackoverflow.com/questions/1056051/how-do-you-call-python-code-from-c-code
+//Python from C calling
+http://pythonhosted.org/mpi4py/
+//mpi4py official page
