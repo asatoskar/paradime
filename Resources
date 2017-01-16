@@ -17,3 +17,9 @@ http://www.g7smy.co.uk/2013/12/the-case-of-opencv-and-the-missing-modules/
 
 https://milq.github.io/install-opencv-ubuntu-debian/
 http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/opencv-intro.html
+
+Stitching
+http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+//uses SIFT algorithm im Python
+http://hubpages.com/technology/Benchmarking-Python-Cython-and-CythonMPI
+//Cython with MPI bindings
