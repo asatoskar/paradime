@@ -1,4 +1,30 @@
-Links for setting up MPI cluster
+Install all these packages alongside Python
+http://www.numpy.org/
+//numpy official page
+
+http://scikit-image.org/
+//scikit image official page
+
+http://scikit-learn.org/stable/
+//scikit leanr official
+
+
+
+
+
+
+Stitching
+
+http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+//uses SIFT algorithm im Python
+http://hubpages.com/technology/Benchmarking-Python-Cython-and-CythonMPI
+//Cython with MPI bindings
+http://stackoverflow.com/questions/1056051/how-do-you-call-python-code-from-c-code
+//Python from C calling
+http://pythonhosted.org/mpi4py/
+//mpi4py official page
+
+inks for setting up MPI cluster
 
 http://mpitutorial.com/tutorials/running-an-mpi-cluster-within-a-lan/
 http://dominicm.com/passwordless-ssh-logins-linux/
@@ -17,13 +43,3 @@ http://www.g7smy.co.uk/2013/12/the-case-of-opencv-and-the-missing-modules/
 
 https://milq.github.io/install-opencv-ubuntu-debian/
 http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/opencv-intro.html
-
-Stitching
-http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
-//uses SIFT algorithm im Python
-http://hubpages.com/technology/Benchmarking-Python-Cython-and-CythonMPI
-//Cython with MPI bindings
-http://stackoverflow.com/questions/1056051/how-do-you-call-python-code-from-c-code
-//Python from C calling
-http://pythonhosted.org/mpi4py/
-//mpi4py official page
