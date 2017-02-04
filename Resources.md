@@ -36,15 +36,19 @@ http://dominicm.com/passwordless-ssh-logins-linux/
 * Passwordless SSH guide
 
 https://www.server-world.info/en/note?os=Fedora_24&p=nis&f=1  
-*To set up NIS on Fedora
+* To set up NIS on Fedora
 
 ### Links for Passwordless SSH Login
 
 http://www.linuxproblem.org/art_9.html
+
 http://superuser.com/questions/283474/rsa-authentication-cannot-get-passwordless-login-with-ssh
 
 ### OpenCV Installtion and Basics
 http://kinishri6.blogspot.in/2014/07/how-to-install-opencv-in-fedora-os-in.html
+
 http://www.g7smy.co.uk/2013/12/the-case-of-opencv-and-the-missing-modules/
+
 https://milq.github.io/install-opencv-ubuntu-debian/
+
 http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/opencv-intro.html
