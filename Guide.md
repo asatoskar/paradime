@@ -18,8 +18,8 @@ The machines should be able to log in and out of each other without requiring a 
 
 >passwd mpiuser
 
->//Enter password as 'password'. These are the standard inputs we will be using on all machines for simplicity's sake.
+>*//Enter password as 'password'. These are the standard inputs we will be using on all machines for simplicity's sake.*
 
-> //Give this user sudo privileges
+> *//Give this user sudo privileges*
 
 >sudo usermod -a -G wheel mpiuser
