@@ -1,5 +1,6 @@
 # CMake Command To Build OpenCV with OpenCV_Contrib
 
+\ 
 cmake -D CMAKE_BUILD_TYPE=RELEASE \
 
 	-D CMAKE_INSTALL_PREFIX=/usr/local \
