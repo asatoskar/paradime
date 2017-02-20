@@ -2,6 +2,10 @@
 
 Final year project that aims to parallelize implementations of image processing algorithms for image stitching.
 
-All links referred are be in Resources. A cluster set-up guide will also be created in [Guide](paradime/Guide.md)(**!currently incomplete**).
+All links referred are be in Resources. 
+
+A cluster set-up guide has been created in [Cluster Guide]( /paradime/ClusterGuide.md )
+
+An OpenCV installation guide has been created in [OpenCV Guide]( /paradime/OpenCVGuide.md )
 
 Program files will be updated after Phase 2 evaluation.
