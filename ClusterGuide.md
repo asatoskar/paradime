@@ -1,6 +1,6 @@
 # Setting Up A Cluster Using MPI4Py on Fedora 25
 
-This file consolidates all the steps that were taken to set up a working MPI cluster on Fedora 25 using MPICH and MPI4Py based on steps seen in the [Resources](/paradime/Resources.md).
+This file consolidates all the steps that were taken to set up a working MPI cluster on Fedora 25 using MPICH and MPI4Py based on steps seen in the [Resources](https://github.com/m0usedrag0n/paradime/blob/master/Resources.md).
 
 **Step 1: Install the packages required for the setup on all machines.**
 
