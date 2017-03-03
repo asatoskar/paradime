@@ -52,3 +52,7 @@ http://www.g7smy.co.uk/2013/12/the-case-of-opencv-and-the-missing-modules/
 https://milq.github.io/install-opencv-ubuntu-debian/
 
 http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/opencv-intro.html
+
+### Links for Satellite Images
+http://gisgeography.com/how-to-download-sentinel-satellite-data/
+http://gisgeography.com/arcgis-composite-bands/
